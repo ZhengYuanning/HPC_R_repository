@@ -12,3 +12,4 @@ bitmap(
 plot(x, y)
 
 dev.off()
+hello :)
